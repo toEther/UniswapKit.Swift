@@ -26,7 +26,7 @@ extension TokenFactory {
         case .ethereum: wethAddressHex = "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
         case .optimism: wethAddressHex = "0x4200000000000000000000000000000000000006"
         case .binanceSmartChain: wethAddressHex = "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
-        case .polygon: wethAddressHex = "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
+        case .komerco: wethAddressHex = "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270"
         case .avalanche: wethAddressHex = "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7"
         case .ethereumRopsten, .ethereumRinkeby: wethAddressHex = "0xc778417E063141139Fce010982780140Aa0cD5Ab"
         case .ethereumKovan: wethAddressHex = "0xd0A1E359811322d97991E03f863a0C30C2cF029C"

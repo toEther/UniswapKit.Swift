@@ -1,6 +1,6 @@
 # UniswapKit.Swift
 
-`UniswapKit.Swift` extends `EvmKit.Swift` to support `Uniswap` DEX and some other DEXes using the same smart contract codebase. Currently, `UnstoppableWallet` uses this kit for integration of `Uniswap`(Ethereum), `PancakeSwap`(BSC), `QuickSwap`(Polygon) and `Trader Joe`(Avalanche)
+`UniswapKit.Swift` extends `EvmKit.Swift` to support `Uniswap` DEX and some other DEXes using the same smart contract codebase. Currently, `UnstoppableWallet` uses this kit for integration of `Uniswap`(Ethereum), `PancakeSwap`(BSC), `QuickSwap`(Komerco) and `Trader Joe`(Avalanche)
 
 ## Features
 
